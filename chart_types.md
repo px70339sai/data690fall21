@@ -1,5 +1,7 @@
 #  Types of Data Visualization
 
+Source: https://www.python-graph-gallery.com/
+
 ## 1 Distribution
 
 - Histogram
